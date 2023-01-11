@@ -1,7 +1,7 @@
-window.onload = function() {
+window.onload = function () {
   let form = document.querySelector("form");
-  form.onsubmit = function(event) {
-
+  form.onsubmit = function (event) {
+    event.preventDefault();
     const person1Input = document.getElementById("person1Input").value;
     const person2Input = document.getElementById("person2Input").value;
     const animalInput = document.getElementById("animalInput").value;
@@ -20,7 +20,5 @@ window.onload = function() {
     document.querySelector("span#exclamation").innerText = exclamationInput;
 
     document.querySelector("div#story").removeAttribute("class");
-
-    event.preventDefault();
   };
 };
