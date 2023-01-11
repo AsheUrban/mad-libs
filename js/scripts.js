@@ -9,6 +9,7 @@ window.onload = function() {
     const verbInput = document.getElementById("verbInput").value;
     const nounInput = document.getElementById("nounInput").value;
 
+    document.querySelector("span#person1a").innerText = person1Input;
     document.querySelector("span#person1b").innerText = person1Input;
     document.querySelector("span#person1c").innerText = person1Input;
     document.querySelector("span#person2a").innerText = person2Input;
