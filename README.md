@@ -1,16 +1,18 @@
-# Cookie Recipe
+# Mad Libs, Not Mad Libs
 
 #### By _**Ashe Urban**_
 
-#### Brief Description
+#### a short form using vanilla javascript to create a mad lib style user experience.
 
 ## Technologies Used
 
-* HTML
+* html
+* css
 * javascript
 
-## Long Description
+## Description
 
+https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-web-browsers/forms-hiding-and-showing-elements-and-the-event-object
 
 
 ## Setup/Installation Requirements
@@ -20,7 +22,7 @@
 
 ## Known Bugs
 
-* 
+* None
 
 ## License
 
