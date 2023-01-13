@@ -12,17 +12,21 @@
 
 ## Description
 
+_This project has two branches, one using bootstrap and jquery, in addition to js, html, and css (main), the other using vanilla javascript and plain css (mad-libs-js)._
+
+* git checkout mad-libs-js to view vanilla javascript version.
+* This project was completed based on the following lesson at Epicodus:
+
 https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-web-browsers/forms-hiding-and-showing-elements-and-the-event-object
 
 
 ## Setup/Installation Requirements
 
-* Copy the file from the repository.
-* Open the file to view.
+Clone or download to your local repository. No special setup or configuration.
 
 ## Known Bugs
 
-* None
+* _Story disappears due to lack of an event prevent default function on main branch only. No known bugs on mad-libs-js._
 
 ## License
 
